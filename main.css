@@ -66,7 +66,7 @@ header div nav ul li{
  list-style: none;
 }
 .section1 {
-    background-image: url("/img/IMAGE.png");
+    background-image: url("./img/IMAGE.png");
     background-size: cover;       /* изображение будет растянуто, чтобы покрыть весь блок */
     background-position: center;  /* центрирует изображение */
     background-repeat: no-repeat; /* убирает повторение */
